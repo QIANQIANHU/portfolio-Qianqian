@@ -1,78 +1,68 @@
-body {
-  background-color: #E4DDC1;
-  margin-top:100px;
-	margin-right:70px;
-	margin-bottom:10px;
-	margin-left:70px;
+header {
+  font-style: italic;
+  font-family: monospace;
+  font-weight:lighter;
+  color: #E4DDC1;
+  text-align: left;
+  margin-bottom: 10px;
 }
 
-h2 {
-  background-color:  #C3B298;
+body {
+  background-image: url("leaf.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-top:100px;
+  margin-right:70px;
+  margin-bottom:10px;
+  margin-left:70px;
+}
+
+h3 h6 {
   text-align: center;
-  font-style: italic;
-  font-family: fantasy;
 }
-h3 {
-  color: grey;
-  text-align: left;
-  font-size: 25px;
-  font-family: fantasy;
-}
+
 h4 {
-  color: grey;
-  text-align: left;
-  font-family: fantasy;
+  font-style: oblique;
+  text-align: center;
+  margin: 25px;
 }
+
+.boxmodel li {
+  font-weight: lighter;
+  margin: 25px;
+}
+
+.tabfont a {
+    margin-right: 20px;
+    font-size: 15px;
+    font-family: monospace;
+    font-weight: lighter;
+    font-variant: normal;
+    font-stretch: semi-condensed;
+    color: #33312D;
+    background-color: #C3B298;
+  }
+
+.boxmodel {
+  float: center;
+  border: 20px solid #33312D;
+  padding: 20px;
+  margin-top: 50px;
+  margin-left: : 80px;
+  margin-right: : 80px;
+  margin-bottom: 50px;
+  background-color: #C3B298;
+  }
+
+p {
+  font-weight: lighter;
+  font-family:  monospace;
+}
+
 img {
   height: 200px;
   width: auto;
   float: left;
   margin: 20px;
-}
-.special {
-  color: #33312D;
-  font-family: fantasy;
-  font-weight: bold;
-}
-h4 {
-  text-align: center;
-}
-p {
-  color: rgb(96, 91, 98);
-  font-style: italic;
-}
-li {
-  font-style: italic;
-  font-size: 15px;
-  color: grey;
-}
-.contact {
-  float: right;
-  border: 10px solid #A29B89;
-  padding: 4px;
-  margin: 4px;
-  background-color: #E4DDC1;
-}
-.hobby {
-  width: 300px;
-  float: right;
-}
-#photo1 {
-  height: 200px;
-  width: 200px;
-  float: right;
-}
-#photo2 {
-  height: 200px;
-  width: 200px;
-  float: right;
-}
-.boxmodel {
-border: 10px solid #A29B89;
-padding: 4px;
-margin: 4px;
-background-color: beige;
-}
-.jumbotron{
-  background-color: #C3B298;
+
 }
