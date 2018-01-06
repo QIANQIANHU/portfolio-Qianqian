@@ -27,6 +27,13 @@ h4 {
   margin: 25px;
 }
 
+.special {
+  font-weight: bold;
+  font-style: italic;
+  color: #33312D;
+  text-decoration: underline;
+}
+
 .boxmodel li {
   font-weight: lighter;
   margin: 25px;
