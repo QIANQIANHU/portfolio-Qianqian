@@ -6,13 +6,14 @@
 
 ## Description
 
-This website is about Qianqian's story, working experience, education and skills.
+This website is about Qianqian's story, program portfolio, working experience, education and skills.
 
 ## Setup/Installation Requirements
 
-Copy repository from GitHub to your computer using Terminal command $ git clone
+* Copy repository from GitHub to your computer using Terminal command $ git clone and open with a browser
 
-Open with a browser
+* Click https://qianqianhu.github.io/portfolio-Qianqian/
+
 
 ## Support and contact details
 
@@ -28,4 +29,4 @@ Contact email: huqianqian@ymail.com
 
 This project is licensed under the MIT License.
 
-Copyright (c) 2016 **qh**
+Copyright (c) 2018 **qh**
