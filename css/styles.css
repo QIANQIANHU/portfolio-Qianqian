@@ -27,6 +27,17 @@ h4 {
   margin: 25px;
 }
 
+#link a {
+  font-size: 12px;
+  color: #616568;
+  
+}
+
+#link p {
+  font-weight: lighter;
+  margin: 10px;
+}
+
 .special {
   font-weight: bold;
   font-style: italic;
