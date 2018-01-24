@@ -10,9 +10,9 @@ This website is about Qianqian's story, program portfolio, working experience, e
 
 ## Setup/Installation Requirements
 
-* Copy repository from GitHub to your computer using Terminal command $ git clone and open with a browser
+* Copy repository from GitHub to your computer using Terminal command $ git clone and open with a browser, or
 
-* Click https://qianqianhu.github.io/portfolio-Qianqian/
+* Open [link](https://qianqianhu.github.io/portfolio-Qianqian/) in your browser.
 
 
 ## Support and contact details
